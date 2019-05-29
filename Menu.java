@@ -3,6 +3,7 @@ public class Menu
 {  Reservation reserv=new Reservation();
    private  int input1;
    private AvailableTicket available;
+   private int input1;
 
 
 
